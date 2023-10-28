@@ -1,7 +1,7 @@
 ---
 author: Radhe Krishna Singh
 pubDatetime: 2023-10-28T05:59:04.866Z
-title: NativePHP Building Desktop Applications with PHP
+title: PHP Unit Testing - A Comprehensive Tutorial
 postSlug: php-unit-testing-a-comprehensive-tutorial
 featured: true
 draft: false
@@ -9,7 +9,6 @@ tags:
   - PHPUNIT
   - Testing with PHP
   - Unit Test
-
 description: PHPUnit is a widely-used unit testing framework designed specifically for PHP. It is known for its user-friendly nature and comprehensive features, making it an ideal choice for executing effective unit tests
 ---
 
