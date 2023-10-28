@@ -14,8 +14,6 @@ tags:
 description: Explore the world of Native PHP, its advantages, use cases, and why it's still relevant in modern web development.
 ---
 
-# NativePHP: Building Desktop Applications with PHP
-
 NativePHP is a new package that allows you to develop desktop applications using PHP. It is built on top of Laravel and provides a number of features that make it easy to create powerful and sophisticated desktop apps.
 
 ## What is NativePHP?
