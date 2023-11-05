@@ -6,7 +6,7 @@ postSlug: Top-Laravel-Interview-Questions
 featured: true
 draft: false
 tags:
-  - Top Laravel Interview Questions
+  - Laravel Interview Questions
   - Laravel
   - PHP Interview Questions
   - Top Interview Questions
